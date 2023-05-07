@@ -1,1 +1,1 @@
-teradatasql
+teradatasql==17.20.0.13
