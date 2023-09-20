@@ -1,4 +1,4 @@
-FROM python:3.10.11
+FROM python:3.12.0rc2
 jhhhh
 WORKDIR /opt/app
 
